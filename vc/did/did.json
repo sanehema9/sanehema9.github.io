@@ -6,7 +6,7 @@
   "id": "did:web:sanehema9.github.io:vc:did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkhrsaBf9beQ4d66bYYeruKTmHSgZCLbtYDcRDSxfe1AnA",
+      "publicKeyMultibase": "z6Mkg7qkg4V96VToK3C66uc12bKZiPygnJZVPMEgGdcKK6GE",
       "controller": "did:web:sanehema9.github.io:vc:did",
       "id": "did:web:sanehema9.github.io:vc:did#OYptbV8Y2hcvbsohl4qC4Ao0woCu6zXxbXI_XaNtz6I",
       "type": "Ed25519VerificationKey2020",
